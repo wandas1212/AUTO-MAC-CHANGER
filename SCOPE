@@ -1,6 +1,6 @@
 #This software does the following
 
-(1) Detects when a linux machine is connected to a LAN (WIFI or ETHERNET).
+(1) Detects when the attacker is connected to a LAN (WIFI or ETHERNET).
 
 (2) Automatically open terminal and ask if network should be hacked.
 
